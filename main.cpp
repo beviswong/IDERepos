@@ -6,5 +6,6 @@ int main() {
     std::cout << "Never give up!" << std::endl;
     std::cout << "the chosen one!" << std::endl;
     std::cout << "git clone." << std::endl;
+    std::cout << "git commit and push!" << std::endl;
     return 0;
 }
